@@ -1,0 +1,23 @@
+/*Ini adalah jumbotron*/
+.jumbotron{
+    background-image: url(img/gambar.jfif);
+    background-size: cover;
+    height: 770px;
+    text-align: center;
+    margin-top: -120px;
+}
+.jumbotron .display-5{
+    margin-top: 200px;
+}
+.jumbotron p{
+    font-size: 15px;
+    margin-top: 25px;
+}
+.jumbotron .btn{
+    background-color: #d42525;
+    border: none;
+    border-radius: 25px;
+    margin-right: 25px;
+    margin-left: 25;
+    margin-top: 40px;
+}
